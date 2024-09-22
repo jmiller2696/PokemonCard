@@ -1,0 +1,108 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.background {
+  height: 550px;
+  width: 450px;
+  background-color: #FFE064;
+  border-radius: 15px;
+}
+
+.background2 {
+  height: 500px;
+  width: 400px;
+  background-color: #B7BCC6;
+  border-bottom-right-radius: 15px;
+  border-top-left-radius: 15px;
+  position: relative;
+  top: 25px;
+  left: 25px;
+}
+
+.textbox {
+  position: relative;
+  z-index: 2;
+  top: -20px;
+  left: 85px;
+}
+
+.textbox2 {
+  position: relative;
+  z-index: 2;
+  top: 80px;
+  left: 50px;
+}
+.name {
+  position: relative;
+  z-index: 2;
+  top: 15px;
+  left: 20px;
+}
+.name2 {
+  position: relative;
+  z-index: 2;
+  top: -5px;
+  left: 350px;
+}
+.imagebox {
+  position: relative;
+  z-index: 2;
+  left: 25px;
+  top: -40px;
+}
+.icon {
+  position: relative;
+  z-index: 2;
+  left: 330px;
+  top: -25px;
+}
+.icon2 {
+  position: relative;
+  z-index: 2;
+  left: 50px;
+  top: 235px;
+}
+.textbox3 {
+  position: relative;
+  z-index: 2;
+  top: -10px;
+  left: 85px;
+}
+.textbox4 {
+  position: relative;
+  z-index: 2;
+  top: 10px;
+  left: 85px;
+}
+.textbox5 {
+  position: relative;
+  z-index: 2;
+  top: -5px;
+  left: 285px;
+}
+.icon3 {
+  position: relative;
+  z-index: 2;
+  left: 20px;
+  top: -117px;
+}
+.icon4 {
+  position: relative;
+  z-index: 2;
+  left: 50px;
+  top: -140px;
+}
+.icon5 {
+  position: relative;
+  z-index: 2;
+  left: 105px;
+  top: -60px;
+}
+.icon6 {
+  position: relative;
+  z-index: 2;
+  left: 300px;
+  top: -85px;
+}
